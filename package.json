@@ -12,7 +12,7 @@
 	"dependencies": {
 		"@react-navigation/native": "^6.0.8",
 		"@react-navigation/stack": "^6.1.1",
-		"expo": "~46.0.16",
+		"expo": "~49.0.2",
 		"expo-font": "^10.0.5",
 		"expo-updates": "~0.14.6",
 		"react": "17.0.1",
